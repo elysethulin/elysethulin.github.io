@@ -92,21 +92,23 @@ Presentation at the World Health Organization Mental Health Funding and the Sust
 Goals: What next and who pays?, Freetown, Sierra Leone.</p>
 
 <p style="font-size: 120%;"><b>COMPLETE LIST OF PEER REVIEWED PUBLICATIONS</b></p>
-<p style="font-size: 110%;"> 1.	<b>Thulin, E.J.</b>, Fleming, P., Kernsmith, P., Smith-Darden, J., & Heinze, J.E. (in preparation). SHARE EDA coercion survival analysis.  
-<br>2.	<b>Thulin, E.J.</b> (in preparation). Cleaner burning stoves in Western Kenya: women's reflections on having more time, clearer air, and less intimate partner violence.
-<br>3.	<b>Thulin, E.J.</b>, Heinze, J., Cordova, D., & Puffer, E. (in preparation). Patterns of sexual health and norm communication to orphaned grandchildren in Kenya: A latent class analysis.
-<br>4.	<b>Thulin, E.J.</b>, Heinze, J.E., Kernsmith, P, Smith-Darden, J., & Fleming, P.F. (in preparation). Patterns of electronic, verbal, physical and sexual dating violence in adolescence.
-<br>5.	Zimmerman, M., Eisman, A., <b>Thulin, E.J.</b>, Reischl, T., Hutchison, P., & Lee, D.B. (in preparation). Longitudinal Effects of Youth Empowerment Solutions: Accelerating research-to-practice translation for community-based violence prevention.
-<br>6.	<b>Thulin, E.J.</b>, Heinze, J.E, & Zimmerman, M.A. (in preparation). Community norms and intimate partner violence beliefs across 51 countries. 
-<br>7.	<b>Thulin, E.J.</b>, Lustig, A., Perrotte, V., Lwabanya, M., & Evans, T. (under review). Community perceptions of sexual and gender-based violence in South Kivu, eastern DRC. Journal of Interpersonal Violence.
-<br>8.	Heinze, J.E., Hsieh, H.F., <b>Thulin, E.J.</b>, Howe, K., Miller, A., & Zimmerman, M.A. (under review). Adolescent exposure to violence and adult intimate-partner violence mediated by mental distress. Journal of Applied Developmental Psychology.
-<br>9.	<b>Thulin, E.J.</b>, Fleming, P., Kernsmith, P., Smith-Darden, J., & Heinze, J.E. (in press). Adolescent Risk of Dating Violence and Electronic Dating Abuse: A Latent Class Analysis. Journal of Youth and Adolescence.
-<br>10.	<b>Thulin, E.J.</b>, Heinze, J.E., & Zimmerman, M.A. (in press). Adverse adolescent experiences (A-ACES) and risk of adult intimate partner violence. American Journal of Preventive Medicine.
-<br>11.	<b>Thulin, E.J.</b>, McLean, K.E., Sevalie, S., Akinsulure-Smith, A., Betancourt, T.S. (2020). Mental Health Problems among Children in Sierra Leone: Assessing Cultural Concepts of Distress. Transcultural Psychology Special Issue. * Awarded 2019 Susan B. Meister Award for Best Paper in Child Health Policy
-<br>12.	<b>Thulin, E.J.</b>, Heinze, J.E., Kusunoki, Y., Hsieh, H.F., & Zimmerman, M.A. (2020). Perceived Neighborhood Characteristics and Experiences of Intimate Partner Violence – a Multi-Level Analysis. Journal of Interpersonal Violence. 
-<br>13.	Rupp, L., Zimmerman, M., Sly, K., Reischl, T. M., <b>Thulin, E. J.</b>, Wyatt, T., & Stock, J. (Jack) P. (2019). Community Engaged Neighborhood Revitalization and Empowerment: Busy Streets Theory in Action. American Journal of Community Psychology.
-<br>14.	Zuillkowski, S.S., <b>Thulin, E.J.</b>, McLean, K.E., Rogers, T.M., Akinsulure-Smith, A.M., Betancourt, T.S. (2019). Parenting and discipline in post-conflict Sierra Leone. Child Abuse & Neglect. 
-<br>15.	<b>Thulin, E.</b> (2013). Type I Diabetes: Affect, Adolescence, and Empathy. Epidemic Proportions, 10, 65-68.</p>
+<p style="font-size: 110%;"> 1. McLean, K., & <b>Thulin, E.J.</b> (in preparation). Men’s experiences and perspectives related to family planning (contraception) in Sierra Leone.
+<br>2. <b>Thulin, E.J.</b>, DeVera, E., Downing, K., & Woodbrook, R. (in preparation). Diversity Research and Data Practices: DEI Scholars’ Data Needs.
+<br>3. <b>Thulin, E.J.</b>, Fleming, P., Kernsmith, P., Smith-Darden, J., & Heinze, J.E. (in preparation). SHARE EDA coercion survival analysis.
+<br>4. <b>Thulin, E.J.</b> (in preparation). Cleaner burning stoves in Western Kenya: women's reflections on having more time, clearer air, and less intimate partner violence.
+<br>5.	<b>Thulin, E.J.</b>, Heinze, J., Cordova, D., & Puffer, E. (in preparation). Patterns of sexual health and norm communication to orphaned grandchildren in Kenya: A latent class analysis.
+<br>6.	<b>Thulin, E.J.</b>, Heinze, J.E., Kernsmith, P, Smith-Darden, J., & Fleming, P.F. (in preparation). Patterns of electronic, verbal, physical and sexual dating violence in adolescence.
+<br>7.	Zimmerman, M., Eisman, A., <b>Thulin, E.J.</b>, Reischl, T., Hutchison, P., & Lee, D.B. (in preparation). Longitudinal Effects of Youth Empowerment Solutions: Accelerating research-to-practice translation for community-based violence prevention.
+<br>8.	<b>Thulin, E.J.</b>, Heinze, J.E, & Zimmerman, M.A. (in preparation). Community norms and intimate partner violence beliefs across 51 countries. 
+<br>9.	<b>Thulin, E.J.</b>, Lustig, A., Perrotte, V., Lwabanya, M., & Evans, T. (under review). Community perceptions of sexual and gender-based violence in South Kivu, eastern DRC. Journal of Interpersonal Violence.
+<br>10.	Heinze, J.E., Hsieh, H.F., <b>Thulin, E.J.</b>, Howe, K., Miller, A., & Zimmerman, M.A. (under review). Adolescent exposure to violence and adult intimate-partner violence mediated by mental distress. Journal of Applied Developmental Psychology.
+<br>11.	<b>Thulin, E.J.</b>, Fleming, P., Kernsmith, P., Smith-Darden, J., & Heinze, J.E. (in press). Adolescent Risk of Dating Violence and Electronic Dating Abuse: A Latent Class Analysis. Journal of Youth and Adolescence.
+<br>12.	<b>Thulin, E.J.</b>, Heinze, J.E., & Zimmerman, M.A. (in press). Adverse adolescent experiences (A-ACES) and risk of adult intimate partner violence. American Journal of Preventive Medicine.
+<br>13.	<b>Thulin, E.J.</b>, McLean, K.E., Sevalie, S., Akinsulure-Smith, A., Betancourt, T.S. (2020). Mental Health Problems among Children in Sierra Leone: Assessing Cultural Concepts of Distress. Transcultural Psychology Special Issue. * Awarded 2019 Susan B. Meister Award for Best Paper in Child Health Policy
+<br>14.	<b>Thulin, E.J.</b>, Heinze, J.E., Kusunoki, Y., Hsieh, H.F., & Zimmerman, M.A. (2020). Perceived Neighborhood Characteristics and Experiences of Intimate Partner Violence – a Multi-Level Analysis. Journal of Interpersonal Violence. 
+<br>15.	Rupp, L., Zimmerman, M., Sly, K., Reischl, T. M., <b>Thulin, E. J.</b>, Wyatt, T., & Stock, J. (Jack) P. (2019). Community Engaged Neighborhood Revitalization and Empowerment: Busy Streets Theory in Action. American Journal of Community Psychology.
+<br>16.	Zuillkowski, S.S., <b>Thulin, E.J.</b>, McLean, K.E., Rogers, T.M., Akinsulure-Smith, A.M., Betancourt, T.S. (2019). Parenting and discipline in post-conflict Sierra Leone. Child Abuse & Neglect. 
+<br>17.	<b>Thulin, E.</b> (2013). Type I Diabetes: Affect, Adolescence, and Empathy. Epidemic Proportions, 10, 65-68.</p>
 
 <p style="font-size: 120%;"><b>BOOK CHAPTERS & WHITE PAPERS</b></p>
 <p style="font-size: 110%;">1.	Spray, K., <b>Thulin, E.J.</b>, Edge, S., Tang, C., Perrotte, V., Hasan, S., Lustig, A. & Evans, T. (2020). 
