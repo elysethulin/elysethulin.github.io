@@ -22,9 +22,9 @@ title: Elyse Thulin, Social Scientist and Outdoor Enthusiast
 <p style="font-size: 110%;"><b>Graduate Research Associate, Sterilization and Social Justice Lab</b>, Ann Arbor, Sept 2019-present
 <br>Consulted on translating historical data to quantitative database, lead on big data applications 
 (data scraping, text analysis) to study historical public sentiment using newspaper data. Co-author/presenter at conferences/manuscripts.
-<br>1.	Lira, N., Novak, N., Thulin, E.J., & Stern, A.M. (2020). Studying America’s Eugenics Era through an ELSI Lens: Data, Context, and Relevance. 
+<br>1.	Lira, N., Novak, N., <b>Thulin, E.J.</b>, & Stern, A.M. (2020). Studying America’s Eugenics Era through an ELSI Lens: Data, Context, and Relevance. 
 Panel presentation at the Ethical, Legal and Social Implications Research Program (ELSI) Virtual Forum. 
-<br>2.	Thulin, E.J., Trevino, T., & Novak, N. (2020). Institutional Sterilization Frequency and Public Perception in the New York Times during the 20th 
+<br>2.	<b>Thulin, E.J.</b>, Trevino, T., & Novak, N. (2020). Institutional Sterilization Frequency and Public Perception in the New York Times during the 20th 
 Century in the United States. MIDAS Data for Public Good, Ann Arbor, Michigan.</p>
 
 <p style="font-size: 110%;"><b>Graduate Research Associate, Strengthening Supports for Healthy Adolescent Relationships and Environments</b>, Ann Arbor, May 2019 – present
