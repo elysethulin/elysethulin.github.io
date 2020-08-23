@@ -4,7 +4,6 @@ title: Elyse Thulin, Social Scientist and Outdoor Enthusiast
 ---
 <div class="blurb">
 	<h1>Elyse Thulin, CV</h1>
-	(IMG_0163.jpg)
     <p style="font-size: 140%;"><b>EXPERTISE </b></p>
     <p style="font-size: 110%;">Research design (quantitative: cohort studies, randomized control trials, population studies; qualitative: key informant interviews, focus groups), analysis (primary and secondary, 
     survey and administrative data within and across populations), program evaluation (mixed methods), measure/evaluation tool development. Gender-based violence, intimate partner violence, sexual health and contraception. 
