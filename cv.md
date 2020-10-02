@@ -202,7 +202,7 @@ Teaching and Referral Hospital, Sally Test Center, Eldoret, Kenya.</p>
 
 <p style="font-size: 120%;"><b>SERVICE</b></p>
 <p style="font-size: 110%;">October 2, 2020: Congressional Global Health Day Asks to Congress and the House, Wyoming Representative and Lead/Sole Presenter, Virtual
-<br>July 2020 – Present: Central Wyoming College BRIDGE Program Mentor, Jackson, WY
+<br>July 2020 – August 2020: Central Wyoming College BRIDGE Program Mentor, Jackson, WY
 <br>September 2019 – Present: Intimate Partner Violence [Service Provider Name Retracted] Support Group Facilitator, Washtenaw County, MI
 <br>June 2019 – Present: University of Michigan SPhD President, University of Michigan, Ann Arbor, MI
 <br>Fall 2019: Peer Reviewer, PLOS ONE
