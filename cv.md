@@ -94,7 +94,7 @@ Goals: What next and who pays?, Freetown, Sierra Leone.</p>
 <p style="font-size: 120%;"><b>COMPLETE LIST OF PEER REVIEWED PUBLICATIONS</b></p>
 <p style="font-size: 110%;"> 1. McLean, K., & <b>Thulin, E.J.</b> (in preparation). Men’s experiences and perspectives related to family planning (contraception) in Sierra Leone.
 <br>2. <b>Thulin, E.J.</b>, DeVera, E., Downing, K., & Woodbrook, R. (in preparation). Diversity Research and Data Practices: DEI Scholars’ Data Needs.
-<br>3. <b>Thulin, E.J.</b>, Fleming, P., Kernsmith, P., Smith-Darden, J., & Heinze, J.E. (in preparation). SHARE EDA coercion survival analysis.
+<br>3. Kernsmith, P., <b>Thulin, E.J.</b>, Fleming, P., Smith-Darden, J., & Heinze, J.E. (in preparation). SHARE EDA coercion survival analysis.
 <br>4. <b>Thulin, E.J.</b> (in preparation). Cleaner burning stoves in Western Kenya: women's reflections on having more time, clearer air, and less intimate partner violence.
 <br>5.	<b>Thulin, E.J.</b>, Heinze, J., Cordova, D., & Puffer, E. (in preparation). Patterns of sexual health and norm communication to orphaned grandchildren in Kenya: A latent class analysis.
 <br>6.	<b>Thulin, E.J.</b>, Heinze, J.E., Kernsmith, P, Smith-Darden, J., & Fleming, P.F. (in preparation). Patterns of electronic, verbal, physical and sexual dating violence in adolescence.
@@ -201,7 +201,8 @@ Teaching and Referral Hospital, Sally Test Center, Eldoret, Kenya.</p>
 <br>2019: Safe States Alliance</p>
 
 <p style="font-size: 120%;"><b>SERVICE</b></p>
-<p style="font-size: 110%;">July 2020 – Present: Central Wyoming College BRIDGE Program Mentor, Jackson, WY
+<p style="font-size: 110%;">October 2, 2020: Congressional Global Health Day Asks to Congress and the House, Wyoming Representative and Lead/Sole Presenter, Virtual
+<br>July 2020 – Present: Central Wyoming College BRIDGE Program Mentor, Jackson, WY
 <br>September 2019 – Present: Intimate Partner Violence [Service Provider Name Retracted] Support Group Facilitator, Washtenaw County, MI
 <br>June 2019 – Present: University of Michigan SPhD President, University of Michigan, Ann Arbor, MI
 <br>Fall 2019: Peer Reviewer, PLOS ONE
