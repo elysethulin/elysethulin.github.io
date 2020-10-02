@@ -163,7 +163,15 @@ community dissemination Meeting, Eldoret, Kenya.
 <br>20.	<b>Thulin, E.J.</b> & Achieng, H. (2015). Type 1 Diabetes - A village to help a child. Oral presentation on Type 1 Diabetes symptom identification, Moi 
 Teaching and Referral Hospital, Sally Test Center, Eldoret, Kenya.</p>
 
-<p style="font-size: 120%;"><b>TEACHING/GUEST LECTURE PRESENTATIONS </b></p>
+<p style="font-size: 120%;"><b>TEACHING </b></p>
+<p style="font-size: 110%;">Graduate Student Instructor, HBEHED540 Fundamentals of Reproductive Health, University of Michigan; August 2020-December 2020
+<br>Yoga & Meditation Instructor, University of Michigan; June 2019-March 2020
+<br>Graduate Teaching Assistant, PSY323 Global Mental Health, Duke University; August 2015-December 2015
+<br>Graduate Course Development Assistant, GLHLTH707 Epidemiology and Study Design II, Duke University; August 2015-December 2015
+<br>Service Learning Teaching Assistant, GLHLTH373 Global Health Ethics, Duke University; January 2015-May 2015
+ </p>
+
+<p style="font-size: 120%;"><b>GUEST LECTURE PRESENTATIONS </b></p>
 <p style="font-size: 110%;">Thulin, E.J. (2019). Survey Research in Global Settings and with Specific Populations- Panelist. HBHE530 Survey Methods, University of Michigan School of Public Health, Ann Arbor, MI.
 <br>Thulin, E.J. (2019). So, You Want to a PhD? A Crash Course on Applying to PhD Programs in Public Health. SPH UM Resource Rodeo.
 <br>Thulin, E.J. (2019). Doctoral Pathways & Mentor Relationships – Panelist. HBHE800 Seminar in Health Behavior and Health Education, University of Michigan School of Public Health, Ann Arbor, MI.
