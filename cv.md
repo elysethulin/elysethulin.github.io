@@ -117,50 +117,51 @@ Mental Health Care and Gender Based Violence in Eastern DRC: Needs Assessment an
 The Cambridge Handbook of Community Psychology: Interdisciplinary and Contextual Perspectives. </p>
 
 <p style="font-size: 120%;"><b>RESEARCH PRESENTATIONS</b></p>
-<p style="font-size: 110%;">1.	<b>Thulin, E.J.</b>, Fleming, P., Kernsmith, P., Smith-Darden, J., & Heinze, J.E. (2020). 
+<p style="font-size: 110%;">1. <b>Thulin, E.J.</b> (2020). Chronic Illness, Travel and Adventure: Individuals, Companies and Industry. Invited presenter at the Association of Outdoor Recreation and Education Annual Conference.
+<br>2.	<b>Thulin, E.J.</b>, Fleming, P., Kernsmith, P., Smith-Darden, J., & Heinze, J.E. (2020). 
 Adolescent Risk of Dating Violence and Electronic Dating Abuse: A Latent Class Analysis. 25th San Diego International Summit on Violence, 
 Abuse and Trauma (IVAT) Across the Lifespan, Virtual Poster Presentation.
-<br>2.	<b>Thulin, E.J.</b>, Lustig, A., Perrotee, V., Lwabanya, M., & Evans, T. (2020). Understanding male and female perceptions and experiences of sexual 
+<br>3.	<b>Thulin, E.J.</b>, Lustig, A., Perrotee, V., Lwabanya, M., & Evans, T. (2020). Understanding male and female perceptions and experiences of sexual 
 and gender-based violence in South Kivu, eastern DRC to tailor interventions. 25th San Diego International Summit on Violence, Abuse and Trauma (IVAT)
 Across the Lifespan, Virtual Poster Presentation.
-<br>3.	<b>Thulin, E.J.</b>, Heinze, J.E., Zimmerman, M.A. (2020). Evaluating micro-, meso-, and macro-level factors associated with intimate partner violence 
+<br>4.	<b>Thulin, E.J.</b>, Heinze, J.E., Zimmerman, M.A. (2020). Evaluating micro-, meso-, and macro-level factors associated with intimate partner violence 
 acceptability across 51 countries: building datasets to answer complex questions. 25th San Diego International Summit on Violence, Abuse and Trauma (IVAT) 
 Across the Lifespan, Virtual Poster Presentation.
-<br>4.	Lira, N., Novak, N., <b>Thulin, E.J.</b>, & Stern, A.M. (2020). Studying America’s Eugenics Era through an ELSI Lens: Data, Context, and Relevance. Panel 
+<br>5.	Lira, N., Novak, N., <b>Thulin, E.J.</b>, & Stern, A.M. (2020). Studying America’s Eugenics Era through an ELSI Lens: Data, Context, and Relevance. Panel 
 presentation at the Ethical, Legal and Social Implications Research Program (ELSI) Virtual Forum.
-<br>5.	<b>Thulin, E.J.</b> (2020). The intersection of violence, gender, and culture and implications for developmental trajectories. Child Health Evaluation and 
+<br>6.	<b>Thulin, E.J.</b> (2020). The intersection of violence, gender, and culture and implications for developmental trajectories. Child Health Evaluation and 
 Research Center Susan B. Meister Best Paper in Childhood Policy Virtual Meeting.
-<br>6.	<b>Thulin, E.J.</b>, Heinze, J.E., & Zimmerman, M.A. (2020). Longitudinal examination of adverse childhood experiences during adolescence as a predictor of 
+<br>7.	<b>Thulin, E.J.</b>, Heinze, J.E., & Zimmerman, M.A. (2020). Longitudinal examination of adverse childhood experiences during adolescence as a predictor of 
 adult intimate partner violence trajectories. UM Injury Prevention Center Research Symposium, Ann Arbor, MI. [conference cancelled due to COVID-19]
-<br>7.	<b>Thulin, E.J.</b>, Heinze, J.E., & Puffer, E. (2020). Patterns of communication about sexual health between orphaned adolescents and their grandparent 
+<br>8.	<b>Thulin, E.J.</b>, Heinze, J.E., & Puffer, E. (2020). Patterns of communication about sexual health between orphaned adolescents and their grandparent 
 caregivers: A latent class analysis. Society for Research on Adolescence, San Diego, CA.  [conference cancelled due to COVID-19]
-<br>8.	<b>Thulin, E.J.</b>, Heinze, J.E., Smith-Darden, J., Kernsmith P.D., & Fleming, P. (2020). Adolescent risk of dating violence and electronic dating abuse:
+<br>9.	<b>Thulin, E.J.</b>, Heinze, J.E., Smith-Darden, J., Kernsmith P.D., & Fleming, P. (2020). Adolescent risk of dating violence and electronic dating abuse:
 A Latent class analysis. Society for Research on Adolescence, San Diego, CA.  [conference cancelled due to COVID-19]
-<br>9.	<b>Thulin, E.J.</b>, McLean, K., Sevalie, S., Akinsulure-Smith, A., & Betancourt, T. (2020). Mental health problems among children in Sierra Leone: 
+<br>10.	<b>Thulin, E.J.</b>, McLean, K., Sevalie, S., Akinsulure-Smith, A., & Betancourt, T. (2020). Mental health problems among children in Sierra Leone: 
 Assessing cultural concepts of distress. Society for Research on Adolescence, San Diego, CA. [conference cancelled due to COVID-19]
-<br>10.	<b>Thulin, E.J.</b>, Trevino, T., & Novak, N. (2020). Institutional Sterilization Frequency and Public Perception in the New York Times during the 20th 
+<br>11.	<b>Thulin, E.J.</b>, Trevino, T., & Novak, N. (2020). Institutional Sterilization Frequency and Public Perception in the New York Times during the 20th 
 Century in the United States. MIDAS Data for Public Good, Ann Arbor, Michigan.
-<br>11.	<b>Thulin, E.J.</b> (2019). Patterns of dating violence in a population of south east Michigan teens. University of Michigan School of Public Health, 
+<br>12.	<b>Thulin, E.J.</b> (2019). Patterns of dating violence in a population of south east Michigan teens. University of Michigan School of Public Health, 
 Health Behavior Health Education Fall Colloquium Series. Ann Arbor, MI.
-<br>12.	Eisman, A. Lee, D., <b>Thulin, E.J.</b>, Reischl, T. Franzen, S., & Zimmerman, M.A. (2018). Evaluating the long-term effectiveness of the Youth Empowerment 
+<br>13.	Eisman, A. Lee, D., <b>Thulin, E.J.</b>, Reischl, T. Franzen, S., & Zimmerman, M.A. (2018). Evaluating the long-term effectiveness of the Youth Empowerment 
 Solution (YES) Intervention on violent behavior. APHA poster presentation, San Diego, California. 
-<br>13.	<b>Thulin, E.J.</b> & Golub, G. (2017). Conducting impact evaluations in Kenya for more than 10 years. Presentation on program measurement and impact 
+<br>14.	<b>Thulin, E.J.</b> & Golub, G. (2017). Conducting impact evaluations in Kenya for more than 10 years. Presentation on program measurement and impact 
 evaluation at the Red Cross/Red Crescent Global Innovation Accelerator Studio conference, Nairobi, Kenya.
-<br>14.	<b>Thulin, E.J.</b> (2017) Sexual Health and Risk Communication to OVC cared for by grandparents. Presentation at the Center for Disease Control and Kenya 
+<br>15.	<b>Thulin, E.J.</b> (2017) Sexual Health and Risk Communication to OVC cared for by grandparents. Presentation at the Center for Disease Control and Kenya 
 Medical Research Institute on sexual health and risk communication between primary caregiver grandparents and orphaned/abandoned grandchildren, Kisumu, Kenya.
-<br>15.	Sevalie, S., <b>Thulin, E.J.</b>, McLean, K., & Betancourt, T.S. (2016). Understanding Locally, Culturally, and Contextually Relevant Mental Health Problems 
+<br>16.	Sevalie, S., <b>Thulin, E.J.</b>, McLean, K., & Betancourt, T.S. (2016). Understanding Locally, Culturally, and Contextually Relevant Mental Health Problems 
 among Children in Sierra Leone. Presentation at the International Peace Research Association annual conference, Freetown, Sierra Leone.
-<br>16.	<b>Thulin, E.J.</b>, McLean, K., Collet, K.E., & Betancourt, T.S. (2016). Understanding Locally, Culturally, and Contextually Relevant Mental Health Problems 
+<br>17.	<b>Thulin, E.J.</b>, McLean, K., Collet, K.E., & Betancourt, T.S. (2016). Understanding Locally, Culturally, and Contextually Relevant Mental Health Problems 
 among Children in Sierra Leone. Presentation at the World Health Organization Mental Health Funding and the Sustainable Development Goals: What next and who pays?,
 Freetown, Sierra Leone.
-<br>17.	McGill Rogers, T., <b>Thulin, E.J.</b>, Fine, S., Collet, K., Brennan, R.T., Betancourt, T.S. (2016). Adapting a Mental Health Intervention for War-Affected Youth
+<br>18.	McGill Rogers, T., <b>Thulin, E.J.</b>, Fine, S., Collet, K., Brennan, R.T., Betancourt, T.S. (2016). Adapting a Mental Health Intervention for War-Affected Youth
 through Employment Programs in Sierra Leone. Poster presented at Inaugural International Symposium Women in Leadership Empowering Girls through Education and 
 Training: Discussions from a Global Perspective, Boston, MA. 
-<br>18.	<b>Thulin, E.J.</b>, Mwaniki, I., Ronoh, O., & Puffer, E.S. (2015). Communication Behavior and Desire for Communication Across Grandparents and Grandchildren. 
+<br>19.	<b>Thulin, E.J.</b>, Mwaniki, I., Ronoh, O., & Puffer, E.S. (2015). Communication Behavior and Desire for Communication Across Grandparents and Grandchildren. 
 Poster presented at the Center for AIDS Research Fall Scientific Retreat, Durham, NC.
-<br>19.	<b>Thulin, E.J.</b>, Mwaniki, I., Ronoh, O., & Ayuku, D. (2015). Grandparents talking to Grandchildren. Oral presentation of research findings at a local 
+<br>20.	<b>Thulin, E.J.</b>, Mwaniki, I., Ronoh, O., & Ayuku, D. (2015). Grandparents talking to Grandchildren. Oral presentation of research findings at a local 
 community dissemination Meeting, Eldoret, Kenya.
-<br>20.	<b>Thulin, E.J.</b> & Achieng, H. (2015). Type 1 Diabetes - A village to help a child. Oral presentation on Type 1 Diabetes symptom identification, Moi 
+<br>21.	<b>Thulin, E.J.</b> & Achieng, H. (2015). Type 1 Diabetes - A village to help a child. Oral presentation on Type 1 Diabetes symptom identification, Moi 
 Teaching and Referral Hospital, Sally Test Center, Eldoret, Kenya.</p>
 
 <p style="font-size: 120%;"><b>TEACHING </b></p>
