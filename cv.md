@@ -93,13 +93,13 @@ Goals: What next and who pays?, Freetown, Sierra Leone.</p>
 
 <p style="font-size: 120%;"><b>COMPLETE LIST OF PEER REVIEWED PUBLICATIONS</b></p>
 <p style="font-size: 110%;"> 1. McLean, K., & <b>Thulin, E.J.</b> (in preparation). Men’s experiences and perspectives related to family planning (contraception) in Sierra Leone.
-<br>2. <b>Thulin, E.J.</b>, DeVera, E., Downing, K., & Woodbrook, R. (in preparation). Diversity Research and Data Practices: DEI Scholars’ Data Needs.
+<br>2. <b>Thulin, E.J.</b>, Heinze, J.E, & Zimmerman, M.A. (in preparation). Community norms and intimate partner violence beliefs across 51 countries. 
 <br>3. Kernsmith, P., <b>Thulin, E.J.</b>, Fleming, P., Smith-Darden, J., & Heinze, J.E. (in preparation). SHARE EDA coercion survival analysis.
 <br>4. <b>Thulin, E.J.</b> (in preparation). Cleaner burning stoves in Western Kenya: women's reflections on having more time, clearer air, and less intimate partner violence.
 <br>5.	<b>Thulin, E.J.</b>, Heinze, J., Cordova, D., & Puffer, E. (in preparation). Patterns of sexual health and norm communication to orphaned grandchildren in Kenya: A latent class analysis.
 <br>6.	<b>Thulin, E.J.</b>, Heinze, J.E., Kernsmith, P, Smith-Darden, J., & Fleming, P.F. (in preparation). Patterns of electronic, verbal, physical and sexual dating violence in adolescence.
 <br>7.	Zimmerman, M., Eisman, A., <b>Thulin, E.J.</b>, Reischl, T., Hutchison, P., & Lee, D.B. (in preparation). Longitudinal Effects of Youth Empowerment Solutions: Accelerating research-to-practice translation for community-based violence prevention.
-<br>8.	<b>Thulin, E.J.</b>, Heinze, J.E, & Zimmerman, M.A. (in preparation). Community norms and intimate partner violence beliefs across 51 countries. 
+<br>8.	<b>Thulin, E.J.</b>, DeVera, E., Downing, K., & Woodbrook, R. (under review). Researcher Data Practices: Implications for Open Data and Data Practices on Vulnerable and Underrepresented Communities. JASIST. 
 <br>9.	<b>Thulin, E.J.</b>, Lustig, A., Perrotte, V., Lwabanya, M., & Evans, T. (under review). Community perceptions of sexual and gender-based violence in South Kivu, eastern DRC. Journal of Interpersonal Violence.
 <br>10.	Heinze, J.E., Hsieh, H.F., <b>Thulin, E.J.</b>, Howe, K., Miller, A., & Zimmerman, M.A. (under review). Adolescent exposure to violence and adult intimate-partner violence mediated by mental distress. Journal of Applied Developmental Psychology.
 <br>11.	<b>Thulin, E.J.</b>, Fleming, P., Kernsmith, P., Smith-Darden, J., & Heinze, J.E. (in press). Adolescent Risk of Dating Violence and Electronic Dating Abuse: A Latent Class Analysis. Journal of Youth and Adolescence.
