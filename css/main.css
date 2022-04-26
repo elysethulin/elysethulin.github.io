@@ -41,25 +41,25 @@ ul.posts li {
 }
 
 a:link {
-  color: green;
+  color: DarkTurquoise;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: pink;
+  color: DeepPink;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: red;
+  color: MediumVioletRed;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: yellow;
+  color: Gold;
   background-color: transparent;
   text-decoration: underline;
 }
