@@ -3,6 +3,7 @@ layout: default
 title: Elyse Thulin, Social Scientist and Outdoor Enthusiast
 ---
 <div class="blurb">
+    <p style="font-size: 100%;"><b> Last Updated: April 2022 </p>	
 	<h1>Elyse Thulin, CV</h1>
     <p style="font-size: 140%;"><b>EXPERTISE </b></p>
     <p style="font-size: 110%;">Research design (quantitative: cohort studies, randomized control trials, population studies; qualitative: key informant interviews, focus groups), analysis (primary and secondary, 
