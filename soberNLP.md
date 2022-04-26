@@ -5,7 +5,7 @@ title: Elyse Thulin, Social Scientist and Outdoor Enthusiast
 
 <div class="blurb">      
 	<h1> Public Discussions of Recovery: Applying Natural Language Processing to #sober Tweets </h1>
-	<p style="font-size: 140%;">Authors: <b> Elyse J. Thulin</b>, PhD, Alex Weigard, PhD, Anne Fernandez, PhD </p>
+	<p style="font-size: 140%;">Authors: <b> Elyse J. Thulin</b>, PhD, Alex Weigard, PhD, & Anne Fernandez, PhD </p>
 
 
 <br> <b> Background: </b>
