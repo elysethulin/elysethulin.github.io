@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: #a67b40;
+    background-color: #E5E4E2;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -23,7 +23,7 @@ p {
     color: #333;
 }
 footer {
-    border-top: 1px solid #678079;
+    border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
 
@@ -43,20 +43,19 @@ a:link {
 }
 
 a:visited {
-  color: #88ab98;
+  color: DeepPink;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: #f2c35c;
+  color: MediumVioletRed;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: #36373a;
+  color: Gold;
   background-color: transparent;
   text-decoration: underline;
 }
-
